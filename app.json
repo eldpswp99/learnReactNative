@@ -27,7 +27,7 @@
       "supportsTablet": true
     },
     "packagerOpts": {
-      "port": 59674
+      "port": 50799
     }
   }
 }
